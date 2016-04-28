@@ -1,0 +1,25 @@
+{
+  "name": "evalsha",
+  "version": "0.1.0",
+  "description": "Call a redis lua script efficiently via EVALSHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomsbg/evalsha.git"
+  },
+  "keywords": [
+    "redis",
+    "lua",
+    "eval",
+    "evalsha"
+  ],
+  "author": "Blake Thomson <thomsbg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomsbg/evalsha/issues"
+  },
+  "homepage": "https://github.com/thomsbg/evalsha#readme"
+}
